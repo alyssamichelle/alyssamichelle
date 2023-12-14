@@ -1,5 +1,6 @@
 - 💜 Hi, I’m @alyssamichelle
 - 🏋️‍♀️ Sr. Developer Advocate for Progress
+- 🔥 Angular Google Developer Expert
 - 🧮 Favorite Cubic Bezier -> cubic-bezier(.17,.67,.83,.67)
 - 🍷 Favorite Wine -> Goldberg Zweigelt from Austria 2014
 - 📫 DMs are always open -> @alyssanicoll on Twitter
